@@ -1,0 +1,21 @@
+/*
+Theme Name : Level Up Child
+Theme URI: http:/localhost/wp
+Description: This is a child theme of Vantage
+Author: Andrew Carter
+Author URI: http://blank.com
+Template: vantage
+Version: 0.1
+*/
+
+@import url("../vantage/style.css");
+    
+
+ul#menu-footer-menu li {
+   display: inline;
+    padding: 25px;
+}
+
+#menu-footer-menu {
+    text-align: center;
+}
